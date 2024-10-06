@@ -1,5 +1,5 @@
-# 📇 Contact Website
-Welcome to the Contact Website!
+# 📇 RandomUserGen
+Welcome to the RandomUserGen!
 
 This app helps you manage and search through your contacts effortlessly, with a clean and modern interface.
 
@@ -47,9 +47,6 @@ It provides an excellent way to generate and manage fake user information, which
 
 Feel free to contribute by submitting pull requests, opening issues, or suggesting new features! To contribute:
 
-Fork the repository.
-
-Create a new branch (git checkout -b feature/YourFeature). 
-                                     Commit your changes (git commit -m 'Add new feature').
-                                     Push to the branch (git push origin feature/YourFeature).
-                                     Submit a pull request.
+Fork the repository.Create a new branch (git checkout -b feature/YourFeature). 
+Commit your changes (git commit -m 'Add new feature'). Push to the branch (git push origin feature/YourFeature).
+Submit a pull request.
