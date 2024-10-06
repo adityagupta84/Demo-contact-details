@@ -1,7 +1,7 @@
 # 📇 RandomUserGen
 Welcome to the RandomUserGen!
 
-This app helps you manage and search through your contacts effortlessly, with a clean and modern interface.
+This app helps you manage and search through random contacts effortlessly, with a clean and modern interface.
 
 ## 🚀 Live Demo
 
@@ -11,7 +11,7 @@ You can check out the live app here: (https://adityagupta84-demo-contact-info.ne
 
 Search: Enter a name in the search bar to filter the list of contacts.
 
-View Details: Click on a contact to view detailed information like name, email, and phone number.
+View Details: Click on a contact to view detailed information like name, email, image and phone number.
 
 Smooth Styling: Enjoy a clean UI with a mix of vibrant backgrounds and responsive layouts.
 
