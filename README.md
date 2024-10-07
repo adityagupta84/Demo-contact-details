@@ -41,4 +41,5 @@ Feel free to contribute by submitting pull requests, opening issues, or suggesti
 4. **Push to the branch**: `git push origin feature/YourFeature`
 5. **Submit a pull request.**
 
-Thanks for checking out **RandomUserGen**! If you have any questions or feedback, feel free to reach out. Let's make this app even better together! 😊
+Thanks for checking out **RandomUserGen**! 
+If you have any questions or feedback, feel free to reach out. Let's make this app even better together! 😊
